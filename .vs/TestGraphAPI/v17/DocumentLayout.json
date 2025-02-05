@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abbasraz\\source\\repos\\GraphAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7149EB53-EB19-4ECF-8C5C-3B8A1D1A7463}|TestGraphAPI\\TestGraphAPI.csproj|C:\\Users\\abbasraz\\source\\repos\\GraphAPI\\testgraphapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7149EB53-EB19-4ECF-8C5C-3B8A1D1A7463}|TestGraphAPI\\TestGraphAPI.csproj|solutionrelative:testgraphapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7149EB53-EB19-4ECF-8C5C-3B8A1D1A7463}|TestGraphAPI\\TestGraphAPI.csproj|c:\\users\\abbasraz\\source\\repos\\graphapi\\testgraphapi\\testgraphapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7149EB53-EB19-4ECF-8C5C-3B8A1D1A7463}|TestGraphAPI\\TestGraphAPI.csproj|solutionrelative:testgraphapi\\testgraphapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8A62CC-935E-4658-8685-A0DDC6A63828}|EmailService\\EmailService.csproj|C:\\Users\\abbasraz\\source\\repos\\GraphAPI\\emailservice\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8A62CC-935E-4658-8685-A0DDC6A63828}|EmailService\\EmailService.csproj|solutionrelative:emailservice\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8A62CC-935E-4658-8685-A0DDC6A63828}|EmailService\\EmailService.csproj|C:\\Users\\abbasraz\\source\\repos\\GraphAPI\\emailservice\\graphemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8A62CC-935E-4658-8685-A0DDC6A63828}|EmailService\\EmailService.csproj|solutionrelative:emailservice\\graphemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestGraphAPI",
+              "DocumentMoniker": "C:\\Users\\abbasraz\\source\\repos\\GraphAPI\\TestGraphAPI\\TestGraphAPI.csproj",
+              "RelativeDocumentMoniker": "TestGraphAPI\\TestGraphAPI.csproj",
+              "ToolTip": "C:\\Users\\abbasraz\\source\\repos\\GraphAPI\\TestGraphAPI\\TestGraphAPI.csproj",
+              "RelativeToolTip": "TestGraphAPI\\TestGraphAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-03T12:09:12.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\abbasraz\\source\\repos\\GraphAPI\\EmailService\\TokenService.cs",
+              "RelativeDocumentMoniker": "EmailService\\TokenService.cs",
+              "ToolTip": "C:\\Users\\abbasraz\\source\\repos\\GraphAPI\\EmailService\\TokenService.cs",
+              "RelativeToolTip": "EmailService\\TokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T12:03:29.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GraphEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\abbasraz\\source\\repos\\GraphAPI\\EmailService\\GraphEmailService.cs",
+              "RelativeDocumentMoniker": "EmailService\\GraphEmailService.cs",
+              "ToolTip": "C:\\Users\\abbasraz\\source\\repos\\GraphAPI\\EmailService\\GraphEmailService.cs",
+              "RelativeToolTip": "EmailService\\GraphEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T12:03:27.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abbasraz\\source\\repos\\GraphAPI\\TestGraphAPI\\Program.cs",
+              "RelativeDocumentMoniker": "TestGraphAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\abbasraz\\source\\repos\\GraphAPI\\TestGraphAPI\\Program.cs",
+              "RelativeToolTip": "TestGraphAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T11:58:55.307Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
